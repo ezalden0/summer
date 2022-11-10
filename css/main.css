@@ -1,0 +1,212 @@
+*{
+    margin: 0px;
+    padding: 0px
+}
+.header{
+    width: 100%;
+    height: 400px;
+}
+.we{
+    position: absolute;
+    top: 100px;
+    left: 475px;
+    color: white;
+}
+.nav{
+    background-color: rgb(30, 193, 243);
+    height: px;
+    width: 100%;
+}
+.a1{
+    color: black;
+    position: absolute;
+    left: 1300px;
+    top: 10px;
+    background-color: white;
+    width: 60px;
+    height: 30px;
+    border-radius: 15px 15px 15px 15px;
+}
+.a2{
+    color: white;
+    position: absolute;
+    left: 1200px;
+    top: 10px;
+}
+.a3{
+    color: white;
+    position: absolute;
+    left: 1100px;
+    top: 10px;
+}
+.a4{
+    color: white;
+    position: absolute;
+    left: 1000px;
+    top: 10px;
+}
+.trans{
+    width: 50%;
+    height: 325px;
+    position: absolute;
+    left: 675px;
+    top: 455px;
+}
+.transform{
+    position: absolute;
+    left: 100px;
+    top: 550px;
+}
+.stan{
+    width: 1210px;
+    height: 325px;
+    padding-top: 5px;
+}
+.standa{
+    padding-top: 100px;
+    padding-left: 75px;
+}
+.orang{
+    width: 50%;
+    height: 325px;
+    position: absolute;
+    left: 575px;
+}
+.photo{
+    position: absolute;
+    left: 750px;
+    top: 750px;
+}
+.photog{
+    padding-left: 40px;
+}
+.cherry{
+    width: 50%;
+    height: 325px;
+}
+.graph{
+    position: absolute;
+    bottom: 1050px;
+    left: 100px;
+}
+.graphic{
+    padding-left: 65px;
+}
+.clent{
+    background-color: white;
+    width: 100%;
+    height: 350px;
+}
+.hclent{
+    color: silver;
+    position: absolute;
+    top: 950px;
+    left: 475px;
+}
+.per{
+    padding-top: 0px;
+}
+.per .emily{
+    position: absolute;
+    bottom: 750px;
+    left: 25px;
+    display: flex;
+    
+}
+.per .thomas{
+    position: absolute;
+    bottom: 750px;
+    left: 425px;
+    display: flex;
+}
+.per .jenny{
+    position: absolute;
+    bottom: 750px;
+    left: 800px;
+    display: flex;
+}
+.per .jenny .ijenny{
+    position: absolute;
+    bottom: 100px;
+    right: 175px;
+    border-radius: 20px 20px 20px 20px;
+}
+.per .thomas .ithomas{
+    position: absolute;
+    bottom: 100px;
+    right: 175px;
+    border-radius: 20px 20px 20px 20px;
+}
+.per .emily .iemily{
+    position: absolute;
+    bottom: 100px;
+    right: 175px;
+    border-radius: 20px 20px 20px 20px;
+}
+.fin{
+    width: 100%;
+    height: 350px;
+
+}
+.fin .milk{
+    width: 300px;
+    height: 350px;
+}
+.fin .or{
+    width: 300px;
+    height: 350px;
+}
+.fin .con{
+    width: 300px;
+    height: 350px;
+}
+.fin .sug{
+    width: 300px;
+    height: 350px;
+}
+.fotter{
+    width: 100%;
+    height: 350px;
+    background-color: rgb(160, 249, 255);
+}
+.fotter h2{
+    padding-left: 500px;
+    padding-top: 50px;
+    color:silver;
+}
+.fotter .aa1{
+    position: absolute;
+    top: 1675px;
+    left: 425px;
+    display: flex;
+    color:silver;
+}
+.fotter .aa2{
+    position: absolute;
+    top: 1675px;
+    left: 525px;
+    display: flex;
+    color:silver;
+}
+.fotter .aa3{
+    position: absolute;
+    top: 1675px;
+    left: 625px;
+    display: flex;
+    color:silver;
+}
+.fotter .i1{
+    position: absolute;
+    left: 525px;
+    top: 1750px;
+}
+.fotter .i2{
+    position: absolute;
+    left: 550px;
+    top: 1750px;
+}
+.fotter .i3{
+    position: absolute;
+    left: 575px;
+    top: 1750px;
+}
